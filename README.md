@@ -1,4 +1,4 @@
-rails-api-test
+rails-api-test [![Build Status](https://travis-ci.org/polastre/rails-api-test.svg?branch=master)](https://travis-ci.org/polastre/rails-api-test)
 ==============
 
 A sample API server using Rails.
