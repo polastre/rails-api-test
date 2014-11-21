@@ -12,7 +12,7 @@ module Validate
       @first_name = params[:first_name]
       @last_name = params[:last_name]
       @ip_address = params[:ip_address]
-      ActionController::Parameters.new(params).permit(:first_name,:last_name,:ip_address)
+      ActionController::Parameters.new(params)
     end
 
   end
